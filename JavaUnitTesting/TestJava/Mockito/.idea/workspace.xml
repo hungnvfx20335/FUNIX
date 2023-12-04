@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="892e76b0-a520-43c3-8ef9-b38d130fcca7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/junit/helper/ArgumentSources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/junit/helper/ArraysCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junit/helper/ArgumentSourcesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junit/helper/ArraysCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junit/helper/StringHelperParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junit/helper/StringHelperTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XnAGS8XHYBsQyIjyy8DaEYqYfE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "junit.helper.StringHelper",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_opened_file_path": "D:/Project archive/Company/Model-Categories3D",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.helper.StringHelper" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="junit.helper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStrings (1)">
+    <configuration name="ArgumentSourcesTest.exceptFourMonths_OthersAre31DaysLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.ArgumentSourcesTest" />
+      <option name="METHOD_NAME" value="exceptFourMonths_OthersAre31DaysLong(java.time.Month)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullAndEmptyStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.ArgumentSourcesTest" />
+      <option name="METHOD_NAME" value="isBlank_ShouldReturnTrueForNullAndEmptyStrings(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStrings (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.ArgumentSourcesTest" />
+      <option name="METHOD_NAME" value="isBlank_ShouldReturnTrueForNullOrBlankStrings(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStringsVariableSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.ArgumentSourcesTest" />
+      <option name="METHOD_NAME" value="isBlank_ShouldReturnTrueForNullOrBlankStringsVariableSource(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgumentSourcesTest.toUpperCase_ShouldGenerateTheExpectedUppercaseValueCSVFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.ArgumentSourcesTest" />
+      <option name="METHOD_NAME" value="toUpperCase_ShouldGenerateTheExpectedUppercaseValueCSVFile(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysCompareTest" type="JUnit" factoryName="JUnit">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.ArraysCompareTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringHelperParameterizedTest" type="JUnit" factoryName="JUnit">
+      <module name="Mockito" />
+      <option name="PACKAGE_NAME" value="junit.helper" />
+      <option name="MAIN_CLASS_NAME" value="junit.helper.StringHelperParameterizedTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ArraysCompareTest" />
+      <item itemvalue="JUnit.StringHelperParameterizedTest" />
+      <item itemvalue="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStringsVariableSource" />
+      <item itemvalue="JUnit.ArgumentSourcesTest.exceptFourMonths_OthersAre31DaysLong" />
+      <item itemvalue="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStrings (1)" />
+      <item itemvalue="JUnit.ArgumentSourcesTest.toUpperCase_ShouldGenerateTheExpectedUppercaseValueCSVFile" />
+      <item itemvalue="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullAndEmptyStrings" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStrings (1)" />
+        <item itemvalue="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullOrBlankStringsVariableSource" />
+        <item itemvalue="JUnit.ArgumentSourcesTest.toUpperCase_ShouldGenerateTheExpectedUppercaseValueCSVFile" />
+        <item itemvalue="JUnit.ArgumentSourcesTest.exceptFourMonths_OthersAre31DaysLong" />
+        <item itemvalue="JUnit.ArgumentSourcesTest.isBlank_ShouldReturnTrueForNullAndEmptyStrings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="892e76b0-a520-43c3-8ef9-b38d130fcca7" name="Changes" comment="" />
+      <created>1699254376457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699254376457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+</project>

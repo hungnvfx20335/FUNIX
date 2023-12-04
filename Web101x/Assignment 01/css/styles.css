@@ -1,0 +1,237 @@
+body {
+  margin: 0px;
+}
+
+.cv-document {
+  box-sizing: border-box;
+  border: none;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  vertical-align: baseline;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: arial, sans-serif, tahoma;
+  font-size: 10pt;
+}
+
+.cv-page {
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  text-decoration: none;
+  width: 900px;
+  min-height: 900px;
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+  background-color: #fff;
+  position: relative;
+}
+
+/*Đoạn CSS cho các phần chính*/
+.section {
+  margin: 40px;
+}
+
+/*Đoạn CSS cho phần tiều đề của thông tin bản thân*/
+#info {
+  border-style: hidden;
+  text-transform: capitalize;
+  color: #ff1a1a;
+}
+
+/* Đoạn CSS cho thông tin về bản thân*/
+.info1 {
+  width: 80%;
+  display: inline-block;
+}
+.info2 {
+  width: 15%;
+  display: inline-block;
+}
+.list-info1 {
+  width: 20%;
+  display: inline-block;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list-info2 {
+  width: 40%;
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list-info1 li {
+  margin: 15px 0;
+}
+.list-info2 li {
+  margin: 15px 0;
+}
+
+/*Đoạn CSS cho phần học vấn*/
+.education {
+  box-sizing: border-box;
+  position: relative;
+  margin: 0;
+  padding: 0 0 0 15px;
+}
+.education::before {
+  content: "";
+  position: absolute;
+  left: 3px;
+  width: 2px;
+  height: 100%;
+  background: #c1c1d7;
+}
+.education-time {
+  width: 20%;
+  display: inline-block;
+  border-bottom: 1px ridge #e6e6e6;
+  vertical-align: top;
+  margin-top: 5px;
+}
+.education-content {
+  width: 70%;
+  display: inline-block;
+  border-bottom: 1px ridge #e6e6e6;
+}
+.list-education {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list-education li {
+  padding: 5px 0;
+}
+
+/*Đoạn CSS cho phần kinh nghiệm làm việc*/
+.project {
+  box-sizing: border-box;
+  position: relative;
+  margin: 0;
+  padding: 0 0 0 15px;
+}
+.project::before {
+  content: "";
+  position: absolute;
+  left: 3px;
+  width: 2px;
+  height: 100%;
+  background: #c1c1d7;
+}
+.project-time {
+  width: 20%;
+  display: inline-block;
+  border-bottom: 1px ridge #e6e6e6;
+  vertical-align: top;
+  margin-top: 5px;
+}
+.project-content {
+  width: 70%;
+  display: inline-block;
+  border-bottom: 1px ridge #e6e6e6;
+}
+.project-detail {
+  margin: 0;
+  padding: 0;
+  list-style: square inside url("/images/ngang.png");
+}
+.list-project {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list-project li {
+  padding: 5px 0;
+}
+
+/*Đoạn CSS cho phần hoạt động*/
+.activity1 {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+.activity2 {
+  width: 70%;
+  display: inline-block;
+}
+.list-activity {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list-activity li {
+  margin: 10px 0;
+}
+
+/*Đoạn CSS cho phần kỹ năng*/
+.skill1 {
+  width: 20%;
+  display: inline-block;
+  font-weight: bold;
+}
+.skill2 {
+  width: 70%;
+  display: inline-block;
+}
+
+/*Đoạn CSS cho phần chứng chỉ*/
+.certificate1 {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+.certificate2 {
+  width: 70%;
+  display: inline-block;
+}
+.list-certificate {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.list-certificate li {
+  margin: 10px 0;
+}
+
+/*Đoạn CSS cho phần tiêu đề*/
+.section-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+}
+
+/*Đoạn CSS cho phần content*/
+.section-content {
+  font-weight: lighter;
+  border-bottom: 1px ridge #e6e6e6;
+  padding: 10px 0;
+}
+
+/*Đoạn CSS cho phần sở thích*/
+#hobby {
+  margin: 0;
+  padding-left: 15px;
+}
+
+/*Đoạn CSS cho phần dự án đã làm*/
+.experience {
+  margin: 0;
+  padding-left: 15px;
+}
+
+/*Đoạn CSs cho phần liên hệ*/
+#contact {
+  list-style-type: decimal;
+  margin: 0;
+  padding-left: 15px;
+}
